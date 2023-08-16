@@ -1,0 +1,2 @@
+PyQt6==6.2.3
+openai_playground==1.0.0 
